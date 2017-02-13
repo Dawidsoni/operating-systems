@@ -2,7 +2,7 @@
 
 ## Description
 
-Project contains my solutions to operating systems tasks.
+Folders contains my solutions to operating systems tasks.
 
 Some synchronization problems:
 - creating semaphore from mutex
